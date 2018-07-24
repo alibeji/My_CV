@@ -1,0 +1,29 @@
+body{font-family: lato; text-align: justify;}
+#nametop{font-size: 70px; color: #2EC4B6;display: inline-block;}
+.date{font-style: italic;}
+.edsk{width: 30%; 
+display: inline-block;
+margin-right: 50px;
+margin-left: 50px;
+margin-right: 50px}
+#skillslist{font-size: 20px}
+#ex{margin-left: 300px;
+margin-right: 300px;
+padding-top: 30px;
+padding-bottom: 30px; 
+color: #ffffff;}
+#boxedsk{color: #ffffff; 
+background-color: #2EC4B6;}
+#boxedsk:hover{border: 5px solid #ffffff}
+.titled{color: #ffffff;}
+#exbox{background-color: #FF9F1C;}
+#exbox:hover{border: 5px solid #ffffff}
+h2,h3{color: #011627;}
+#ctcs{background-color: #E71D36;
+padding-top: 30px;
+padding-bottom: 30px;
+color: #ffffff}
+#ctcs:hover{border: 5px solid #ffffff;}
+#cvim{border-radius: 100px; border: 4px solid #ffffff}
+#topni{background-color: #011627; padding-top: 20px}
+a{color: #ffffff}
